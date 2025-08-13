@@ -1,0 +1,1 @@
+Now we are going to implement our basic learning to build food ordering app to build our strong foundation 
