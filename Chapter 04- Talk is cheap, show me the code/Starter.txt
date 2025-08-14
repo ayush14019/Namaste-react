@@ -1,1 +1,17 @@
 Now we are going to implement our basic learning to build food ordering app to build our strong foundation 
+
+/*
+  Header
+    - Logo
+    - Nav Items
+  Body
+    - Search
+    - Restarunt Container
+      - Restarunt Card
+        - Name of Restarunt , Star Rating , cuisine , delivery time etc.
+  Footer
+    - Copyright
+    - Links
+    - Address
+    - Contact
+*/
