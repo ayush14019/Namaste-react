@@ -54,7 +54,3 @@ import {Component } from "path";
 
 - useState() - Superpowerful state variable in react
 - useEffect() - 
-
-# Routing
-- Client-side routing:
-- Server-side routing:
