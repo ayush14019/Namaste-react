@@ -54,15 +54,3 @@ import {Component } from "path";
 
 - useState() - Superpowerful state variable in react
 - useEffect() - 
-
-# Routing
-- Client-side routing:
-- Server-side routing:
-
-# Redux ToolKit
-- Install @reduxjs/toolkit and react-redux
-- Build Our Store
-- Connect Our store to the app
-- Slice (Cart Slice)
-- dispatch(action)
-- Selector
